@@ -2,14 +2,16 @@
 links:
   - title: Descriptive Analysis
     url: "https://gist.github.com/binahlabs/6c67a0137bfb518c5406be31eb8b9749"
-    desc: Un análisis descriptivo es un tipo de análisis que se utiliza para explorar y describir los datos, identificar patrones y tendencias y para generar estadísticas y visualizaciones que permitan entender los datos de manera más clara.
+    desc: Descriptive analysis is a type of analysis used to explore and describe data, identify patterns and trends, and generate statistics and visualizations that allow you to understand your data more clearly.
+
   - title: Diagnostic Analysis
     url: "https://gist.github.com/binahlabs/d01e4b434fb5480cd59f691c77bc6968"
-    desc: Un análisis de serie de tiempo es una técnica estadística que se utiliza para analizar datos secuenciales y observar cómo una variable cambia a lo largo del tiempo.
+    desc:  time series analysis is a statistical technique used to analyze sequential data and observe how a variable changes over time.
   - title: Predictive Analysis
     url: "https://gist.github.com/binahlabs/79765eb5b063561da53cc3b766fed1a0"
-    desc: El análisis predictivo consiste en estudiar los datos históricos y actuales para hacer predicciones sobre el futuro.
+    desc: Predictive analytics involves studying historical and current data to make predictions about the future.
+
   - title: Prescriptive Analysis
     url: "https://gist.github.com/binahlabs/b572ff8f8f15aea3ab4f28d6263d575a"
-    desc: El análisis prescriptivo es una técnica de análisis de datos avanzada que utiliza el aprendizaje automático y la inteligencia artificial para generar recomendaciones automatizadas y tomar decisiones basadas en datos históricos.
+    desc: Prescriptive analytics is an advanced data analytics technique that uses machine learning and artificial intelligence to generate automated recommendations and make decisions based on historical data.
 
