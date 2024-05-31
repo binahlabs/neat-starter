@@ -6,7 +6,7 @@ links:
 
   - title: Diagnostic Analysis
     url: "https://gist.github.com/binahlabs/d01e4b434fb5480cd59f691c77bc6968"
-    desc:  time series analysis is a statistical technique used to analyze sequential data and observe how a variable changes over time.
+    desc:  Time series analysis is a statistical technique used to analyze sequential data and observe how a variable changes over time.
   - title: Predictive Analysis
     url: "https://gist.github.com/binahlabs/79765eb5b063561da53cc3b766fed1a0"
     desc: Predictive analytics involves studying historical and current data to make predictions about the future.
