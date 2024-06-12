@@ -1,17 +1,17 @@
 ---
 links:
-  - title: Descriptive Analysis
+  - title: Marketing Research and Analysis
     url: "https://gist.github.com/binahlabs/6c67a0137bfb518c5406be31eb8b9749"
-    desc: Descriptive analysis is a type of analysis used to explore and describe data, identify patterns and trends, and generate statistics and visualizations that allow you to understand your data more clearly.
+    desc: Analysis used to explore and describe data, identify patterns and trends, and generate statistics and visualizations that allow you to understand your data more clearly.
 
-  - title: Diagnostic Analysis
-    url: "https://gist.github.com/binahlabs/d01e4b434fb5480cd59f691c77bc6968"
-    desc:  Time series analysis is a statistical technique used to analyze sequential data and observe how a variable changes over time.
-  - title: Predictive Analysis
-    url: "https://gist.github.com/binahlabs/79765eb5b063561da53cc3b766fed1a0"
-    desc: Predictive analytics involves studying historical and current data to make predictions about the future.
+  - title: Marketing Strategy
+    url: ""
+    desc:  
+  - title: Advertising Campaign Design
+    url: ""
+    desc: Social Media and Email Marketing
 
-  - title: Prescriptive Analysis
-    url: "https://gist.github.com/binahlabs/b572ff8f8f15aea3ab4f28d6263d575a"
+  - title: Coaching in ICT skills development 
+    url: ""
     desc: Prescriptive analytics is an advanced data analytics technique that uses machine learning and artificial intelligence to generate automated recommendations and make decisions based on historical data.
 
