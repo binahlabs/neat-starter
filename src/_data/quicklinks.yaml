@@ -1,14 +1,14 @@
 ---
 links:
-  - title: Netlify CMS
-    url: "https://www.netlifycms.org/"
-    desc: Open source content management for your Git workflow
-  - title: Eleventy
-    url: "https://www.11ty.dev/"
-    desc: Eleventy is a simpler static site generator.
-  - title: Alpine.js
-    url: "https://github.com/alpinejs/alpine"
-    desc: A minimal framework for composing JavaScript behavior in your markup.
-  - title: Tailwind CSS
-    url: "https://tailwindcss.com/"
-    desc: A utility-first CSS framework for rapidly building custom designs.
+  - title: Marketing Research
+    url: "https://gist.github.com/binahlabs/6c67a0137bfb518c5406be31eb8b9749/"
+    desc: Get insights from your data sets before you planning your campaigns. Go data driven. 
+  - title: Marketing Campaign
+    url: ""
+    desc: Make an strategic alignment, gather the team and communicate goals 
+  - title: Content Calendar 
+    url: "https://podcasters.spotify.com/pod/masymejoresventas"
+    desc: Posts, Newsletter and Podcasts design.
+  - title: Organize Your Sales Process With CRM
+    url: ""
+    desc: Achieve efficiency with a smooth and energic workflow.
